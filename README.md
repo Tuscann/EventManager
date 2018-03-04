@@ -29,4 +29,11 @@ Detailed Setup Guide - 10%<br>
 2. Detailed Setup Guide: a document that describes how the application is supposed to be started, e.g. database server connection, configuration files, etc.
 
 <b>Setup Guide</b><br>
-1.Start file is located in <a href="https://github.com/Tuscann/EventManager/blob/master/EventManager/src/EventManager/Main.java">EventManager/src/EventManager/Main.java</a> 
+1.Start file is located in <a href="https://github.com/Tuscann/EventManager/blob/master/EventManager/src/EventManager/Main.java">EventManager/src/EventManager/Main.java</a><br> 
+2.<br>
+ &nbsp; For reading all events press: 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  For list all events push key 1 from keyboard.<br>
+ &nbsp; For creating a new event press: 2   &nbsp;&nbsp; For create new event press key 2 from keyboard.<br>
+ &nbsp; For updating a event press: 3     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  For update event press key 3 from keyboard.<br>
+ &nbsp; For deleting a event press: 4     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  For delete event press key 4 from keyboard.<br>
+ &nbsp; For exit: 5                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  For finish the program press key 5 from keybord.<br> 
+ &nbsp;  All data is saved in external file.<br>
